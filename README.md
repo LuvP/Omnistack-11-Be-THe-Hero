@@ -4,4 +4,5 @@ Ferramentas Utilizadas:
 Node.js
 React
 SQLite3
+ReactNative
 
